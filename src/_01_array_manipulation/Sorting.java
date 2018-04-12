@@ -15,18 +15,6 @@ public class Sorting {
 				}
 			}
 		}
-
-		System.out.println(testArray[0]);
-		System.out.println(testArray[1]);
-		System.out.println(testArray[2]);
-		System.out.println(testArray[3]);
-		System.out.println(testArray[4]);
-		System.out.println(testArray[5]);
-		System.out.println(testArray[6]);
-		System.out.println(testArray[7]);
-		System.out.println(testArray[8]);
-		System.out.println(testArray[9]);
-
 		return testArray;
 	}
 }
